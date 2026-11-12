@@ -3,7 +3,7 @@
 Official website for **FAMSiS** — a software development company — served via GitHub Pages.
 
 - 🌐 Live: https://famsis.github.io
-- 📍 IT City, near IIIT Lucknow, near Ekana Stadium, Lucknow, UP 226002
+- 📍 Registered Address: Prakash Enterprises, Khasra No. 372, Chillaulla, Bakkas, Lucknow, UP 226002, India
 - 💻 GitHub: https://github.com/famsis
 
 ## Pages
